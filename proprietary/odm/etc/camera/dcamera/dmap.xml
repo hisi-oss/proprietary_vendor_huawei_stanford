@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<dmap_config>
+<dgen_flag value="-2 48 1 1 0 1 1 0 0 1 1"/>
+<dgen_varicance value="3 4 4 40 60 80 220 200 0 4 250 1"/>
+<dgen_ad value="4 7 7 1"/>
+<dgen_robust value="32 14 0 95 6 2 250 630 96 32"/>
+<dgen_agg value="7 12 3 6 20 20 6"/>
+<dgen_scanline value="3072 1024 768 256 307 102 15 16 16 16 16"/>
+<dgen_disp value="2 1 3 4"/>
+<dgen_conf value="100 32 9 24 1227"/>
+<dopt_flag value="0 1 1 1 1 2"/>
+<dopt_dfil value="1 1 1 80 80 80"/>
+<dopt_dref value="2 31 1 1 18 959 539 15625 8585"/>
+<dmap_extend value="1 9 5 8 4"/>
+</dmap_config>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LaserFOVDefConfig>
+   <DefaultOffset>12</DefaultOffset>
+   <DefaultCrosstalk>20</DefaultCrosstalk>
+   <DefaultX>2040</DefaultX>
+   <DefaultY>2160</DefaultY>
+   <DefaultWidth>1350</DefaultWidth>
+   <DefaultHeight>1350</DefaultHeight>
+   <DefaultAngle>80</DefaultAngle>
+   <DefaultDmaxrange>600</DefaultDmaxrange>
+   <DefaultDmaxrate>53000</DefaultDmaxrate>
+   <DefaultRefvhvset>27</DefaultRefvhvset>
+   <DefaultRefphase>1</DefaultRefphase>
+   <DefaultSpadcount>5</DefaultSpadcount>
+   <DefaultSpadmode>0</DefaultSpadmode>
+</LaserFOVDefConfig>

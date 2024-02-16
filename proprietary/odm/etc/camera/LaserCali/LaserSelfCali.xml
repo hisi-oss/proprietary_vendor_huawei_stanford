@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LaserSelfCaliCongig>
+	<EnableAutoTunning>1</EnableAutoTunning>
+	<EnableDirtyDetection>1</EnableDirtyDetection>
+	<EnableXtalkSelfCali>1</EnableXtalkSelfCali>
+	<MaxXtalk>650</MaxXtalk>
+	<MaxXtalkGain>200</MaxXtalkGain>
+	<DirtyThreGain>150</DirtyThreGain>
+	<DirtyThreXtalk>100</DirtyThreXtalk>
+	<InfinityDistance>2000</InfinityDistance>
+	<OnOffThreEV>200</OnOffThreEV>
+	<OnOffThreYmean>30</OnOffThreYmean>
+</LaserSelfCaliCongig>
