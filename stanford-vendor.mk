@@ -331,7 +331,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/stanford/proprietary/odm/lib64/libunlockmegcv.so:$(TARGET_COPY_OUT_ODM)/lib64/libunlockmegcv.so \
     vendor/huawei/stanford/proprietary/odm/lib64/libvidhance.so:$(TARGET_COPY_OUT_ODM)/lib64/libvidhance.so \
     vendor/huawei/stanford/proprietary/odm/ta/sign_tool_product_ta.sec:$(TARGET_COPY_OUT_ODM)/ta/sign_tool_product_ta.sec \
-    vendor/huawei/stanford/proprietary/odm/etc/libnfc-brcm.conf:$(TARGET_COPY_OUT_ODM)/etc/libnfc-brcm.conf \
     vendor/huawei/stanford/proprietary/odm/etc/libnfc-nxp.conf:$(TARGET_COPY_OUT_ODM)/etc/libnfc-nxp.conf \
     vendor/huawei/stanford/proprietary/vendor/etc/cfg_stf_l09_hisi.ini:$(TARGET_COPY_OUT_VENDOR)/etc/cfg_stf_l09_hisi.ini \
     vendor/huawei/stanford/proprietary/vendor/etc/cfg_stf_l14_hisi.ini:$(TARGET_COPY_OUT_VENDOR)/etc/cfg_stf_l14_hisi.ini \
