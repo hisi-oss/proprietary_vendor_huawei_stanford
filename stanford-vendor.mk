@@ -334,11 +334,4 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/stanford/proprietary/odm/etc/libnfc-nxp.conf:$(TARGET_COPY_OUT_ODM)/etc/libnfc-nxp.conf \
     vendor/huawei/stanford/proprietary/vendor/etc/cfg_stf_l09_hisi.ini:$(TARGET_COPY_OUT_VENDOR)/etc/cfg_stf_l09_hisi.ini \
     vendor/huawei/stanford/proprietary/vendor/etc/cfg_stf_l14_hisi.ini:$(TARGET_COPY_OUT_VENDOR)/etc/cfg_stf_l14_hisi.ini \
-    vendor/huawei/stanford/proprietary/vendor/etc/cfg_stf_tucl_hisi.ini:$(TARGET_COPY_OUT_VENDOR)/etc/cfg_stf_tucl_hisi.ini \
-    vendor/huawei/stanford/proprietary/vendor/etc/ir_config:$(TARGET_COPY_OUT_VENDOR)/etc/ir_config \
-    vendor/huawei/stanford/proprietary/vendor/lib64/hw/consumerir.hi3660.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/consumerir.hi3660.so \
-    vendor/huawei/stanford/proprietary/vendor/lib64/libhi64xxIrAccess.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libhi64xxIrAccess.so \
-    vendor/huawei/stanford/proprietary/vendor/lib64/libhisi-set_regs.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libhisi-set_regs.so \
-    vendor/huawei/stanford/proprietary/vendor/lib64/libhisiIrAccess.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libhisiIrAccess.so \
-    vendor/huawei/stanford/proprietary/vendor/lib64/libir_driver_init.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libir_driver_init.so \
-    vendor/huawei/stanford/proprietary/vendor/lib64/libmaximIrAccess.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmaximIrAccess.so
+    vendor/huawei/stanford/proprietary/vendor/etc/cfg_stf_tucl_hisi.ini:$(TARGET_COPY_OUT_VENDOR)/etc/cfg_stf_tucl_hisi.ini
